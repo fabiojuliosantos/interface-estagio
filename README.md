@@ -35,3 +35,6 @@ public class Colaborador
     public int Matricula {get; set;}
     public int CodigoEmpresa {get; set;}
 }
+```
+### Desafio
+> Criar um método chamado SalvarArquivo(). Esse método deve receber um Código de empresa e filtrar os colaboradores que foram cadastrados com o código de empresa informado. Após isso, o método deve salvar os dados dos colaboradores em um arquivo no formato .txt O método deve estar no menu, e implementado utilizando os conceitos de interface, passando pelas camadas de repositorio, service e gerencial.
