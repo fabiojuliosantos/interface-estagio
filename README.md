@@ -26,7 +26,7 @@ public class Cadastro : ICadastro
 }
 ```
 
-Dessa forma, os métodos presente na classe são os métodos assinados na interface.
+Dessa forma, os métodos presentes na classe são os métodos assinados na interface.
 
 > A classe que herda a interface pode ainda, ter seus métodos próprios. Não sendo obrigado que essa classe apenas implemente os métodos assinados na interface.
 
